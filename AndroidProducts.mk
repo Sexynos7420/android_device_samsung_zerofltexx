@@ -17,7 +17,7 @@
 LOCAL_PATH := device/samsung/zerofltexx
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/lineage_zerofltexx.mk
+    $(LOCAL_PATH)/dot_zerofltexx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_zerofltexx-userdebug
+    dot_zerofltexx-userdebug
